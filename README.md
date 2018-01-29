@@ -130,7 +130,7 @@ spark-shell, pyspark, or spark-submit
 
 Users can include the package as the dependency in your SBT file as well. The format is the spark-package-name:version in build.sbt file.
 
-    libraryDependencies += “com.hortonworks/shc-core:1.1.1-2.1-s_2.11”
+    libraryDependencies += "com.hortonworks/shc-core:1.1.1-2.1-s_2.11"
 
 ## Running in secure cluster
 
